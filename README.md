@@ -1,6 +1,6 @@
 # Keskitetty hallinta
 
-Tähän git-repoon on koottu yhteen osa harjoituksistani, jotka tein **"palvelinten hallinta"**-kurssille Haaga-Heliassa.
+Tähän git-repoon on koottu yhteen osa harjoituksistani, jotka tein **"palvelinten hallinta"**-kurssille Haaga-Heliassa. Kävin kurssin keväällä 2020.
 
 Kurssin aikana opin käyttämään **SaltStackia**, sekä useita eri **Unix**-ohjelmia yksittäisten tai useampien palvelinten hallintaan. 
 
